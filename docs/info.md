@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Not gates are connected to outputs a, b, c, e, f, g
 ## How to test
 
-Explain how to use your project
-
+Set input
+a - g to 0. Outputs a,b,c,e,f,g should be on (i.e. 1)
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A 7-segment display should be used as external hardware, and it should display the initial "A." ...as accurately as a seven segment display can.
